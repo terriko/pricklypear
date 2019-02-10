@@ -1,0 +1,5 @@
+Reference, Value, Footprint, Datasheet
+"D2","LED","LEDs:LED_D5.0mm","~"
+"D1","LED","LEDs:LED_D5.0mm","~"
+"BT1","Battery","digikey-footprints:Battery_Holder_Coin_2032_BS-7","~"
+"SW1","SW_SPDT","digikey-footprints:Switch_Slide_11.6x4mm_EG1218",""

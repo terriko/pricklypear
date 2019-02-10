@@ -1,0 +1,83 @@
+EESchema Schematic File Version 4
+LIBS:PricklyPear-cache
+EELAYER 26 0
+EELAYER END
+$Descr A 11000 8500
+encoding utf-8
+Sheet 1 1
+Title "Prickly Pear"
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:LED D2
+U 1 1 5C5F608C
+P 8400 5550
+F 0 "D2" V 8438 5433 50  0000 R CNN
+F 1 "LED" V 8347 5433 50  0000 R CNN
+F 2 "LEDs:LED_D5.0mm" H 8400 5550 50  0001 C CNN
+F 3 "~" H 8400 5550 50  0001 C CNN
+	1    8400 5550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D1
+U 1 1 5C5F60DA
+P 8000 5550
+F 0 "D1" V 8038 5433 50  0000 R CNN
+F 1 "LED" V 7947 5433 50  0000 R CNN
+F 2 "LEDs:LED_D5.0mm" H 8000 5550 50  0001 C CNN
+F 3 "~" H 8000 5550 50  0001 C CNN
+	1    8000 5550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:Battery BT1
+U 1 1 5C5F66C2
+P 7500 5600
+F 0 "BT1" H 7608 5646 50  0000 L CNN
+F 1 "Battery" H 7608 5555 50  0000 L CNN
+F 2 "Cell_Coin_Holders:Keystone_3003_CR2032_THT" V 7500 5660 50  0001 C CNN
+F 3 "~" V 7500 5660 50  0001 C CNN
+	1    7500 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_SPDT SW1
+U 1 1 5C5F70B4
+P 7700 6250
+F 0 "SW1" H 7700 6535 50  0000 C CNN
+F 1 "SW_SPDT" H 7700 6444 50  0000 C CNN
+F 2 "1825232-1:1825232-1" H 7700 6250 50  0001 C CNN
+F 3 "" H 7700 6250 50  0001 C CNN
+	1    7700 6250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7500 5800 7500 6250
+Wire Wire Line
+	7500 5400 8000 5400
+Wire Wire Line
+	8000 5700 7900 5700
+Wire Wire Line
+	7900 5700 7900 6150
+Wire Wire Line
+	7500 5400 7500 5250
+Wire Wire Line
+	7500 5250 8400 5250
+Wire Wire Line
+	8400 5250 8400 5400
+Connection ~ 7500 5400
+Wire Wire Line
+	8400 5700 8400 6150
+Wire Wire Line
+	8400 6150 7900 6150
+Connection ~ 7900 6150
+NoConn ~ 7900 6350
+NoConn ~ 6300 6050
+$EndSCHEMATC
