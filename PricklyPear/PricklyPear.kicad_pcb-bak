@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 127)
+    (drawings 128)
     (tracks 15)
     (zones 0)
     (modules 5)
@@ -460,6 +460,9 @@
       (xy -15.270284 -34.14161) (xy -14.960943 -34.165108) (xy -13.918949 -34.196654) (xy -12.910945 -34.144345)) (layer F.SilkS) (width 0.01))
   )
 
+  (gr_text "(C) Terri Oda 2019\nCC-BY-SA 4.0\nBoard Version: 1.0\nhttps://github.com/terriko/pricklypear" (at 17.78 -46.228 125) (layer B.SilkS)
+    (effects (font (size 1 1) (thickness 0.25)) (justify mirror))
+  )
   (gr_line (start 42.339902 -47.211157) (end 41.392649 -47.788402) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 44.031139 -45.551638) (end 42.339902 -47.211157) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 14.544182 -11.918658) (end 16.163253 -6.178707) (layer Edge.Cuts) (width 0.2))
