@@ -605,9 +605,9 @@
   (segment (start 35.442 -18.034) (end 32.902 -20.574) (width 0.25) (layer F.Cu) (net 2) (tstamp 5C8F2F69))
   (segment (start 32.902 -20.574) (end 32.902 -33.664) (width 0.25) (layer F.Cu) (net 2) (tstamp 5C8F2F66))
   (segment (start 32.902 -33.664) (end 35.052 -35.814) (width 0.25) (layer F.Cu) (net 2) (tstamp 5C8F2F63))
-  (segment (start 13.462 -53.104) (end 32.902 -33.664) (width 0.25) (layer F.Cu) (net 2) (tstamp 5C8F2F60))
-  (segment (start 9.652 -65.024) (end 13.462 -65.024) (width 0.25) (layer F.Cu) (net 2) (tstamp 5C8F2F57))
-  (segment (start 13.462 -65.024) (end 13.462 -53.104) (width 0.25) (layer F.Cu) (net 2) (tstamp 5C8F2F54))
+  (segment (start 13.725 -60.951) (end 9.652 -65.024) (width 0.25) (layer F.Cu) (net 2))
+  (segment (start 13.725 -52.841) (end 13.725 -60.951) (width 0.25) (layer F.Cu) (net 2))
+  (segment (start 13.725 -52.841) (end 32.902 -33.664) (width 0.25) (layer F.Cu) (net 2))
   (segment (start 24.892 -33.274) (end 24.892 -18.034) (width 0.25) (layer B.Cu) (net 3) (tstamp 5C8F2F51))
 
 )
