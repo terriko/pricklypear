@@ -12,7 +12,11 @@ The parts can be soldered on in any order, but I recommend starting with the bat
 
 1. Flip the board over so you're looking at the back.
 2. Cover the square near the bottom (above the word "battery") with solder.
+![Back of Board](images/1a-battery.png)
+
 3. The battery holder is the big metal piece with a + cut into it and a couple of clips.  Put it in place over the square.  The + sign will be at the top and opening where you insert the battery will be at the bottom.  Push the clips through the big holes on either side of the flower pot.
+![Battery holder placement](images/1b-battery.png)
+
 4. Flip the board over so that you're looking at the front
 5. Solder the two clips in place.
 
@@ -21,7 +25,11 @@ The parts can be soldered on in any order, but I recommend starting with the bat
 When I made the board, I made 5 holes for this switch, but the outer two are a bit too small, so we won't be using those.
 
 1. Cut the outermost legs off the switch.  You probably want to wear eye protection for this in case bits go flying.  Those outer legs are a bit wider than the others.  Be careful not to cut the inner three pins!
+![Switch legs](images/2a-switch.png)
+
 2. Stick the switch in the space labelled "switch" on the back of the board.  The pins should stick out the back and the switch itself should be on the front.  
+![Switch placement](images/2b-switch.png)
+
 3. Make sure your three remaining pins are in the inner three slots.
 4. Solder each pin separately.  You might notice that the bottom pin isn't connected to anything, so you don't *need* to solder it, but you probably want to just for stability.
 
@@ -44,3 +52,6 @@ When I made the board, I made 5 holes for this switch, but the outer two are a b
 
 1. Stick the battery in the battery holder with the positive side up (that's the one with the text on it).
 2. If your lights don't turn on the second you put in the battery, flip the switch to turn them on!  
+
+![Complete](images/complete.png)
+
