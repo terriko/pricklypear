@@ -1,8 +1,9 @@
 # Prickly Pear Soldering Kit
 (c) Terri Oda 2019
+
 License: CC-BY-SA 4.0
 
-When I first moved from Ottawa to Albuquerque, I was fascinated by the cactus growing everywhere, because I'd never seen so many in the wild.  This soldering kit uses red LEDs to make prickly pear fruit.  Sure, real prickly pears don't glow, but given New Mexico's place in nuclear history, it's not too much of a stretch to imagine that they might have in some alternate history.
+When I first moved from Ottawa to Albuquerque, I was constantly fascinated by the cactus growing everywhere, because I'd never seen so many in the wild.  I still have a particular fondness for the prickly pear, because it is both pretty and delicious.  This soldering kit uses red LEDs to make prickly pear fruit to match up against a green circuit board for the cactus.  Sure, real prickly pears don't glow, but given New Mexico's place in nuclear history, it's not too much of a stretch to imagine that they might have in some alternate history.
 
 ## Instructions
 
